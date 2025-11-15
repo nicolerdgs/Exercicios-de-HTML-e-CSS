@@ -1,0 +1,25 @@
+h1 {
+    color: rgb(255, 0, 0);
+}
+
+.titulo-01{
+    color: blue;
+    background-color: bisque;
+}
+
+.titulo-02{
+    color: blue;
+    background-color: bisque;
+}
+
+#titulo-03{
+    color: brown;
+}
+
+.c1{
+    background-color: aqua;
+}
+
+#i1{
+    background-color: blue;
+}
